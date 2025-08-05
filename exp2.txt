@@ -1,3 +1,4 @@
 exp2
-my name is chakradhar
+my name is chakradhar 
 i am pursing final year bsc data science
+i learned how to commit and changes the code
